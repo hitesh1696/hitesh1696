@@ -5,10 +5,10 @@
 - Currently Leanring ReactJs and NodeJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
-  Gmail - hitesh.patil1696@gmail.com
-  linkedIn - https://www.linkedin.com/in/hitesh-patil-ba6955141
-  SkypeID - live:d8c1bf037e5addf9
-  Mobile No - 9975740420
+  Gmail - hitesh.patil1696@gmail.com <br>
+  linkedIn - https://www.linkedin.com/in/hitesh-patil-ba6955141 <br>
+  SkypeID - live:d8c1bf037e5addf9 <br>
+  Mobile No - 9975740420 <br>
 <!---
 hitesh1696/hitesh1696 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
